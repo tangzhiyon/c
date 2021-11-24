@@ -8,6 +8,11 @@ public class Test {
 			System.out.println("asdadasda");
 		System.out.println("jjjjjjjjjjj");
 		System.out.println("FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF");
+<<<<<<< HEAD
 		System.out.println("CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC");
+=======
+		System.out.println("GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG");
+		
+>>>>>>> branch 'main' of https://github.com/tangzhiyon/c.git
 	}
 }
